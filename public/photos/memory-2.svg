@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 820" role="img" aria-labelledby="title desc">
+  <title id="title">Quiet streetlight placeholder</title>
+  <desc id="desc">A monochrome abstract memory image with soft vertical light.</desc>
+  <rect width="1200" height="820" fill="#030303"/>
+  <rect x="110" y="82" width="980" height="656" rx="42" fill="#090909" stroke="#242424" stroke-width="2"/>
+  <rect x="573" y="132" width="54" height="520" rx="27" fill="#ffffff" fill-opacity=".09"/>
+  <rect x="246" y="602" width="708" height="2" fill="#ffffff" fill-opacity=".18"/>
+  <ellipse cx="600" cy="612" rx="290" ry="46" fill="#ffffff" fill-opacity=".06"/>
+  <path d="M304 242h592M304 310h430M304 378h502" stroke="#fff" stroke-opacity=".1" stroke-width="10" stroke-linecap="round"/>
+</svg>

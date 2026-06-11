@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 820" role="img" aria-labelledby="title desc">
+  <title id="title">Soft morning placeholder</title>
+  <desc id="desc">A monochrome abstract memory image with a quiet horizon.</desc>
+  <rect width="1200" height="820" fill="#020202"/>
+  <rect x="92" y="96" width="1016" height="628" rx="40" fill="#080808" stroke="#292929" stroke-width="2"/>
+  <linearGradient id="g" x1="0" x2="0" y1="0" y2="1">
+    <stop stop-color="#fff" stop-opacity=".18"/>
+    <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+  </linearGradient>
+  <rect x="92" y="96" width="1016" height="314" rx="40" fill="url(#g)"/>
+  <path d="M178 512c128-76 224-78 350 0s250 76 494-16" fill="none" stroke="#fff" stroke-opacity=".18" stroke-width="3"/>
+  <path d="M178 560c172-48 312-42 444 4 120 42 222 38 400-18" fill="none" stroke="#fff" stroke-opacity=".11" stroke-width="2"/>
+  <circle cx="354" cy="284" r="72" fill="#fff" fill-opacity=".09"/>
+</svg>

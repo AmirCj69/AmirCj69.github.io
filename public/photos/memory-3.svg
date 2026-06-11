@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 820" role="img" aria-labelledby="title desc">
+  <title id="title">Photo album placeholder</title>
+  <desc id="desc">A monochrome abstract memory image resembling a page from a photo album.</desc>
+  <rect width="1200" height="820" fill="#040404"/>
+  <rect x="122" y="92" width="956" height="636" rx="38" fill="#0a0a0a" stroke="#2d2d2d" stroke-width="2"/>
+  <rect x="212" y="162" width="332" height="432" rx="24" fill="#151515" stroke="#ffffff" stroke-opacity=".16"/>
+  <rect x="656" y="162" width="332" height="432" rx="24" fill="#111" stroke="#ffffff" stroke-opacity=".12"/>
+  <path d="M252 520l95-112 73 76 58-62 34 98H252z" fill="#ffffff" fill-opacity=".13"/>
+  <circle cx="442" cy="260" r="42" fill="#ffffff" fill-opacity=".13"/>
+  <path d="M704 304h228M704 366h168M704 428h204" stroke="#fff" stroke-opacity=".14" stroke-width="12" stroke-linecap="round"/>
+  <rect x="390" y="654" width="420" height="10" rx="5" fill="#fff" fill-opacity=".1"/>
+</svg>
